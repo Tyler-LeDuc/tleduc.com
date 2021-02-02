@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/www.tleduc.com/static/css/main.7ce14196.chunk.css",
+    "main.js": "/www.tleduc.com/static/js/main.386b7317.chunk.js",
+    "main.js.map": "/www.tleduc.com/static/js/main.386b7317.chunk.js.map",
+    "runtime-main.js": "/www.tleduc.com/static/js/runtime-main.1894b826.js",
+    "runtime-main.js.map": "/www.tleduc.com/static/js/runtime-main.1894b826.js.map",
+    "static/js/2.8190ac37.chunk.js": "/www.tleduc.com/static/js/2.8190ac37.chunk.js",
+    "static/js/2.8190ac37.chunk.js.map": "/www.tleduc.com/static/js/2.8190ac37.chunk.js.map",
+    "static/js/3.2e7a44c2.chunk.js": "/www.tleduc.com/static/js/3.2e7a44c2.chunk.js",
+    "static/js/3.2e7a44c2.chunk.js.map": "/www.tleduc.com/static/js/3.2e7a44c2.chunk.js.map",
+    "index.html": "/www.tleduc.com/index.html",
+    "static/css/main.7ce14196.chunk.css.map": "/www.tleduc.com/static/css/main.7ce14196.chunk.css.map",
+    "static/js/2.8190ac37.chunk.js.LICENSE.txt": "/www.tleduc.com/static/js/2.8190ac37.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1894b826.js",
+    "static/js/2.8190ac37.chunk.js",
+    "static/css/main.7ce14196.chunk.css",
+    "static/js/main.386b7317.chunk.js"
+  ]
+}
