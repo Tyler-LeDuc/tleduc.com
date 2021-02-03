@@ -77,37 +77,31 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Fulton Homes",
+        "title": "Software Developer",
         "mainTech": [
-          "Angular 8/9/10"
+          "August 2020 - Present"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
+          "SOAP API",
+          "Powershell",
+          "Python",
+          "MySQL",
           ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "Google API"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "Saguaro Aquatics",
+        "title": "WordPress Developer",
         "mainTech": [
-          "Angular 7/8"
+          "November 2018 - March 2020"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
+          "HTML5",
+          "CSS3",
           "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "JavaScript"
         ]
       }
     ]
