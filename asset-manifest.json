@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/tleduc.com/static/css/main.40f0e6cc.chunk.css",
-    "main.js": "/tleduc.com/static/js/main.8a2d1322.chunk.js",
-    "main.js.map": "/tleduc.com/static/js/main.8a2d1322.chunk.js.map",
-    "runtime-main.js": "/tleduc.com/static/js/runtime-main.75f7800b.js",
-    "runtime-main.js.map": "/tleduc.com/static/js/runtime-main.75f7800b.js.map",
-    "static/css/2.d64471e2.chunk.css": "/tleduc.com/static/css/2.d64471e2.chunk.css",
-    "static/js/2.66408c91.chunk.js": "/tleduc.com/static/js/2.66408c91.chunk.js",
-    "static/js/2.66408c91.chunk.js.map": "/tleduc.com/static/js/2.66408c91.chunk.js.map",
-    "index.html": "/tleduc.com/index.html",
-    "precache-manifest.1d46daad11171c544a3cea41ae87762d.js": "/tleduc.com/precache-manifest.1d46daad11171c544a3cea41ae87762d.js",
-    "service-worker.js": "/tleduc.com/service-worker.js",
-    "static/css/2.d64471e2.chunk.css.map": "/tleduc.com/static/css/2.d64471e2.chunk.css.map",
-    "static/css/main.40f0e6cc.chunk.css.map": "/tleduc.com/static/css/main.40f0e6cc.chunk.css.map",
-    "static/js/2.66408c91.chunk.js.LICENSE.txt": "/tleduc.com/static/js/2.66408c91.chunk.js.LICENSE.txt"
+    "main.css": "/tyler-leduc.github.io/tleduc.com/static/css/main.40f0e6cc.chunk.css",
+    "main.js": "/tyler-leduc.github.io/tleduc.com/static/js/main.3ad15c3c.chunk.js",
+    "main.js.map": "/tyler-leduc.github.io/tleduc.com/static/js/main.3ad15c3c.chunk.js.map",
+    "runtime-main.js": "/tyler-leduc.github.io/tleduc.com/static/js/runtime-main.d1feacea.js",
+    "runtime-main.js.map": "/tyler-leduc.github.io/tleduc.com/static/js/runtime-main.d1feacea.js.map",
+    "static/css/2.d64471e2.chunk.css": "/tyler-leduc.github.io/tleduc.com/static/css/2.d64471e2.chunk.css",
+    "static/js/2.66408c91.chunk.js": "/tyler-leduc.github.io/tleduc.com/static/js/2.66408c91.chunk.js",
+    "static/js/2.66408c91.chunk.js.map": "/tyler-leduc.github.io/tleduc.com/static/js/2.66408c91.chunk.js.map",
+    "index.html": "/tyler-leduc.github.io/tleduc.com/index.html",
+    "precache-manifest.7c59ad084d74b4e7ca0dcf02d0b381b1.js": "/tyler-leduc.github.io/tleduc.com/precache-manifest.7c59ad084d74b4e7ca0dcf02d0b381b1.js",
+    "service-worker.js": "/tyler-leduc.github.io/tleduc.com/service-worker.js",
+    "static/css/2.d64471e2.chunk.css.map": "/tyler-leduc.github.io/tleduc.com/static/css/2.d64471e2.chunk.css.map",
+    "static/css/main.40f0e6cc.chunk.css.map": "/tyler-leduc.github.io/tleduc.com/static/css/main.40f0e6cc.chunk.css.map",
+    "static/js/2.66408c91.chunk.js.LICENSE.txt": "/tyler-leduc.github.io/tleduc.com/static/js/2.66408c91.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.75f7800b.js",
+    "static/js/runtime-main.d1feacea.js",
     "static/css/2.d64471e2.chunk.css",
     "static/js/2.66408c91.chunk.js",
     "static/css/main.40f0e6cc.chunk.css",
-    "static/js/main.8a2d1322.chunk.js"
+    "static/js/main.3ad15c3c.chunk.js"
   ]
 }
