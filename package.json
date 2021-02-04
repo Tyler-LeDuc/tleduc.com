@@ -1,6 +1,6 @@
 {
   "name": "Tyler-LeDuc's Portfolio",
-  "homepage": "https://tyler-leduc.github.io/tleduc.com",
+  "homepage": "tleduc.com",
   "version": "0.1.0",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
