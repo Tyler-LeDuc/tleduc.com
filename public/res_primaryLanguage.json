@@ -15,10 +15,10 @@
         "startDate": "2021",
         "description": "The most expanded application I've had the opportunity to work with. I learned many different technologies and my code was reviewed by an awesome curator. This was developed to automate the scheduling and email workflow using a SOAP API which saved the company from having to hire an extra employee.",
         "images": [
-          "tleduc.com/images/portfolio/animal-shelter/p1.jpg",
-          "tleduc.com/images/portfolio/animal-shelter/p2.jpg"
+          "/images/portfolio/animal-shelter/p1.jpg",
+          "/images/portfolio/animal-shelter/p2.jpg"
         ],
-        "url": "tleduc.com",
+        "url": "",
         "technologies": [
           {
             "class": "devicon-python-plain",
@@ -35,8 +35,8 @@
         "startDate": "2020",
         "description": "Group project for software development course. I was responsible for the UI which included designing and implementing the functionality for multiple menus. I also implemented Java Serialization so that players can save the game state and come back to where they left off. I earned an A grade :)",
         "images": [
-          "tleduc.com/images/portfolio/photography/p1.jpg",
-          "tleduc.com/images/portfolio/photography/p2.jpg"
+          "/images/portfolio/photography/p1.jpg",
+          "/images/portfolio/photography/p2.jpg"
         ],
         "url": "https://github.com",
         "technologies": [
@@ -55,8 +55,8 @@
         "startDate": "2015",
         "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
         "images": [
-          "tleduc.com/images/portfolio/adventure/p1.jpg",
-          "tleduc.com/images/portfolio/adventure/p2.jpg"
+          "/images/portfolio/adventure/p1.jpg",
+          "/images/portfolio/adventure/p2.jpg"
         ],
         "url": "https://github.com",
         "technologies": [
