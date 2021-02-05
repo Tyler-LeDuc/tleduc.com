@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "name": "Tyler LeDuc",
-      "titles": [ "Front-end Developer", "Back-End Developer", "Database Designer", "Mobile App Developer" ],
+      "titles": [ "Front-end Developer", "Back-End Developer", "Database Designer", "Automation Engineer" ],
       "social": [
         {
           "name": "github",
@@ -24,13 +24,13 @@
           "level": "95"
         },
         {
-          "name": "Angular",
-          "class": "devicon-angularjs-plain",
+          "name": "PHP",
+          "class": "devicon-php-plain",
           "level": "80"
         },
         {
-          "name": "React",
-          "class": "devicon-react-plain",
+          "name": ".NET Core",
+          "class": "devicon-dot-net-plain",
           "level": "80"
         },
         {

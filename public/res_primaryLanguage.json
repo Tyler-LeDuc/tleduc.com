@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Tyler LeDuc. I like building things. I am an Arizona based Software Developer who graduated from the University of Arizona in December 2020 with a Bachelors degree in Computer Science. I'm working with the newest front-end frameworks like Angular, React and Vue. Feel free to check out my projects, skills, and experience to learn more about me!",
+      "description": "👋 I'm Tyler LeDuc. I am an Arizona based Software Developer that likes building things. I graduated from the University of Arizona in December 2020 with a Bachelors degree in Computer Science. Currently  I'm working with the newest front-end frameworks like Angular, React and Vue. Feel free to check out my projects, skills, and experience to learn more about me!",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -11,12 +11,12 @@
     },
     "projects": [
       {
-        "title": "Scheduling-Bot",
+        "title": "Automated Scheduling Bot",
         "startDate": "2021",
         "description": "The most expanded application I've had the opportunity to work with. I learned many different technologies and my code was reviewed by an awesome curator. This was developed to automate the scheduling and email workflow using a SOAP API which saved the company from having to hire an extra employee.",
         "images": [
-          "/images/portfolio/animal-shelter/p1.jpg",
-          "/images/portfolio/animal-shelter/p2.jpg"
+          "/images/portfolio/bot/p1.jpg",
+          "/images/portfolio/bot/p2.png"
         ],
         "url": "",
         "technologies": [
@@ -51,26 +51,22 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
+        "title": "Financial-Manager",
         "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "description": "One of the first apps I was working on my internship. I had to develop a front-end implementation for an app that displays cryptocurrency and financial data from a Coinbase API key. This was also my first project in React framework. I've learned a lot!",
         "images": [
-          "/images/portfolio/adventure/p1.jpg",
-          "/images/portfolio/adventure/p2.jpg"
+          "/images/portfolio/adventure/p1.png",
+          "/images/portfolio/adventure/p2.png"
         ],
         "url": "https://github.com",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-react-plain",
+            "name": "React"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           }
         ]
       }
