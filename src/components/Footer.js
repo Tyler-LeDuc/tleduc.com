@@ -17,12 +17,15 @@ class Footer extends Component {
     return (
       <footer>
         <div className="col-md-12">
-          <div className="social-links">{networks}</div>
+          <div className="social-links">{networks}
+          <a href="mailto:tyler.a.leduc@gmail.com?subject=Mail from tleduc.com">tyler.a.leduc@gmail.com </a>
+          </div>  
+          <a href="tel:4804149516">480-414-9516</a>
 
           <div className="copyright py-4 text-center">
             <div className="container">
               <small>
-                Copyright &copy;{" "}
+                &copy;{" "}
                 {this.props.sharedBasicInfo
                   ? this.props.sharedBasicInfo.name
                   : "???"}
