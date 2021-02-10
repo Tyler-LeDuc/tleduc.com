@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Tyler LeDuc. I am an Arizona based Software Developer that likes building things. I graduated from the University of Arizona in December 2020 with a Bachelors degree in Computer Science. Currently  I'm working with the newest front-end frameworks like Angular, React and Vue. Feel free to check out my projects, skills, and experience to learn more about me!",
+      "description": "👋 I'm Tyler LeDuc. I am an Arizona based Software Developer that likes building things. I graduated from the University of Arizona in December 2020 with a Bachelors degree in Computer Science. Currently  I'm working with the newest front-end frameworks like Angular and React. Feel free to check out my projects, skills, and experience to learn more about me!",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -35,8 +35,8 @@
         "startDate": "2020",
         "description": "Group project for software development course. I was responsible for the UI which included designing and implementing the functionality for multiple menus. I also implemented Java Serialization so that players can save the game state and come back to where they left off. I earned an A grade :)",
         "images": [
-          "/images/portfolio/photography/p1.jpg",
-          "/images/portfolio/photography/p2.jpg"
+          "/images/portfolio/photography/p1.png",
+          "/images/portfolio/photography/p2.png"
         ],
         "url": "https://github.com",
         "technologies": [
@@ -52,7 +52,7 @@
       },
       {
         "title": "Financial-Manager",
-        "startDate": "2015",
+        "startDate": "2019",
         "description": "One of the first apps I was working on my internship. I had to develop a front-end implementation for an app that displays cryptocurrency and financial data from a Coinbase API key. This was also my first project in React framework. I've learned a lot!",
         "images": [
           "/images/portfolio/adventure/p1.png",
