@@ -35,8 +35,8 @@
         "startDate": "2020",
         "description": "Group project for software development course. I was responsible for the UI which included designing and implementing the functionality for multiple menus. I also implemented Java Serialization so that players can save the game state and come back to where they left off. I earned an A grade :)",
         "images": [
-          "/images/portfolio/photography/p1.png",
-          "/images/portfolio/photography/p2.png"
+          "/images/portfolio/photography/p1.PNG",
+          "/images/portfolio/photography/p2.PNG"
         ],
         "url": "https://github.com",
         "technologies": [
