@@ -15,8 +15,8 @@
         "startDate": "2021",
         "description": "The most expanded application I've had the opportunity to work with. I learned many different technologies and my code was reviewed by an awesome curator. This was developed to automate the scheduling and email workflow using a SOAP API which saved the company from having to hire an extra employee.",
         "images": [
-          "/images/portfolio/bot/p1.jpg",
-          "/images/portfolio/bot/p2.png"
+          "/images/portfolio/Bot/p1.jpg",
+          "/images/portfolio/Bot/p2.png"
         ],
         "url": "",
         "technologies": [
