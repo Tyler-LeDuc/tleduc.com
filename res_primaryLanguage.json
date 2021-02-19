@@ -11,6 +11,46 @@
     },
     "projects": [
       {
+        "title": "Aquatics Promotional Email",
+        "startDate": "2020",
+        "description": "I designed and developed this email to promote an event for International Water Safety Day.",
+        "images": [
+          "/images/portfolio/email/p1.png",
+          "/images/portfolio/email/p2.png"
+        ],
+        "url": "https://tyler-leduc.github.io/Aquatics-Email/",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
+          }
+        ]
+      },
+      {
+        "title": "Nintendo Welcome Email",
+        "startDate": "2021",
+        "description": "I developed this email just for fun. I've always loved the design of Nintendo's promotional emails and I wanted to try to emulate them.",
+        "images": [
+          "/images/portfolio/email/p3.png",
+          "/images/portfolio/email/p4.png"
+        ],
+        "url": "https://tyler-leduc.github.io/Welcome-Email/",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
+          }
+        ]
+      },
+      {
         "title": "Automated Scheduling Bot",
         "startDate": "2021",
         "description": "The most expanded application I've had the opportunity to work with. I learned many different technologies and my code was reviewed by an awesome curator. This was developed to automate the scheduling and email workflow using a SOAP API which saved the company from having to hire an extra employee.",
