@@ -35,6 +35,29 @@
         ]
       },
       {
+        "title": "Oculus Transactional Email",
+        "startDate": "2021",
+        "description": "This is email represents a transaction between a customer and Oculus. I wanted to emulate the minimalistic and stylish design of Oculus while also practicing the design of transactional emails.",
+        "images": [
+          "/images/portfolio/email/p5.png"
+        ],
+        "url": "https://tyler-leduc.github.io/Oculus-Transactional/",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
+          },
+          {
+            "class": "devicon-photoshop-plain",
+            "name": "Photoshop"
+          }      
+        ]
+      },
+      {
         "title": "Nintendo Welcome Email",
         "startDate": "2021",
         "description": "I developed this email just for fun. I've always loved the design of Nintendo's promotional emails and I wanted to try to emulate them.",
